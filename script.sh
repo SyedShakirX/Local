@@ -1,1 +1,1 @@
-echo "Versiom 1 HEEEEEEEELLLLLLLLLOOOOOOOOOOO"
+python3 -m http.server
